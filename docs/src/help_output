@@ -1,0 +1,7 @@
+usage: flaskplayground [-h] [--version]
+
+Learning flask
+
+optional arguments:
+  -h, --help  show this help message and exit
+  --version   show the version number and exit
